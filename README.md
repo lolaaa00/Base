@@ -19,3 +19,4 @@ I am a developer just starting out, learning the fundamentals and building in pu
 
 ## Connect With Me
 - Twitter/X: [@Lolaaa_00_](https://x.com/Lolaaa_00_)
+profile email updated
