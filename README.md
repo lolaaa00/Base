@@ -24,3 +24,4 @@ Day 20: Hero section
 Day 21: Media queries
 Day 22: Responsive design
 Day 23: DOM manipulation
+Day 24: Button events
