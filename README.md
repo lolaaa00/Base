@@ -10,3 +10,4 @@ Day 6: Push and pull
 Day 7: README files
 Day 8: Project description
 Day 9: Git status
+Day 10: Git log
