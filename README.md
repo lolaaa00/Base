@@ -82,3 +82,4 @@ Day 78: Firebase connect
 Day 79: Authentication
 Day 80: Login signup
 Day 81: Firestore data
+Day 82: Retrieve data
