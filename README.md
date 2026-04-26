@@ -77,3 +77,4 @@ Day 73: CSS modules
 Day 74: Style components
 Day 75: Context API
 Day 76: Global state
+Day 77: Firebase intro
