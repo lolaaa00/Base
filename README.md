@@ -99,3 +99,4 @@ Day 95: Tailwind UI
 Day 96: Next.js intro
 Day 97: Next.js page
 Day 98: Image optimization
+Day 99: Full review
