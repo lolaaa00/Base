@@ -59,3 +59,4 @@ Day 55: Git reset
 Day 56: Landing page
 Day 57: Testimonials
 Day 58: Pricing section
+Day 59: Semantic HTML
