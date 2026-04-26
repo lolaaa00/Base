@@ -45,3 +45,4 @@ Day 41: CSS animations
 Day 42: Site animations
 Day 43: HTML forms
 Day 44: Contact form
+Day 45: Form validation
