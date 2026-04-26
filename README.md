@@ -89,3 +89,4 @@ Day 85: Custom domain
 Day 86: Performance
 Day 87: Load speed
 Day 88: SEO basics
+Day 89: Meta tags
