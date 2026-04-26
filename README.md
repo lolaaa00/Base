@@ -47,3 +47,4 @@ Day 43: HTML forms
 Day 44: Contact form
 Day 45: Form validation
 Day 46: CSS variables
+Day 47: Dark mode
