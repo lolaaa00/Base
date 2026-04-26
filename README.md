@@ -55,3 +55,4 @@ Day 51: CSS transitions
 Day 52: Image gallery
 Day 53: Hover effects
 Day 54: Git revert
+Day 55: Git reset
