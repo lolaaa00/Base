@@ -61,3 +61,4 @@ Day 57: Testimonials
 Day 58: Pricing section
 Day 59: Semantic HTML
 Day 60: Accessibility
+Day 61: npm basics
