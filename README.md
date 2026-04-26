@@ -50,3 +50,4 @@ Day 46: CSS variables
 Day 47: Dark mode
 Day 48: JS objects
 Day 49: JSON
+Day 50: Halfway review
