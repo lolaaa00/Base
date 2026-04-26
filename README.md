@@ -73,3 +73,4 @@ Day 69: React API fetch
 Day 70: React to-do
 Day 71: React Router
 Day 72: Multiple pages
+Day 73: CSS modules
