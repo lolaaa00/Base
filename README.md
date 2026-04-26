@@ -101,3 +101,4 @@ Day 97: Next.js page
 Day 98: Image optimization
 Day 99: Full review
 Day 100: Challenge complete!
+fixing email config
