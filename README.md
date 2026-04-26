@@ -80,3 +80,4 @@ Day 76: Global state
 Day 77: Firebase intro
 Day 78: Firebase connect
 Day 79: Authentication
+Day 80: Login signup
