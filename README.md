@@ -34,3 +34,4 @@ Day 30: First API call
 Day 31: Display API data
 Day 32: Fetch and promises
 Day 33: Async await
+Day 34: Weather app UI
