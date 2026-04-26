@@ -75,3 +75,4 @@ Day 71: React Router
 Day 72: Multiple pages
 Day 73: CSS modules
 Day 74: Style components
+Day 75: Context API
