@@ -65,3 +65,4 @@ Day 61: npm basics
 Day 62: First package
 Day 63: React basics
 Day 64: React component
+Day 65: React props
