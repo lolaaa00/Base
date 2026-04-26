@@ -3,3 +3,4 @@ any text here
 anything
 Day 1: Learning how to use Git and GitHub
 Day 2: Learned cloning
+Day 3: First HTML page
