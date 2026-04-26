@@ -26,3 +26,4 @@ Day 22: Responsive design
 Day 23: DOM manipulation
 Day 24: Button events
 Day 25: To-do list
+Day 26: Delete feature
