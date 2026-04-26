@@ -22,3 +22,4 @@ Day 18: CSS grid
 Day 19: Navigation bar
 Day 20: Hero section
 Day 21: Media queries
+Day 22: Responsive design
