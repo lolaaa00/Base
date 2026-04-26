@@ -17,3 +17,4 @@ Day 13: JS functions
 Day 14: JS arrays
 Day 15: JS loops
 Day 16: Simple calculator
+Day 17: CSS flexbox
