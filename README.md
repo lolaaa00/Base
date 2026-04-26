@@ -40,3 +40,4 @@ Day 36: Error handling
 Day 37: Style weather app
 Day 38: Git merge
 Day 39: Pull requests
+Day 40: Open source
