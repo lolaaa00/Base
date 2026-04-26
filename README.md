@@ -87,3 +87,4 @@ Day 83: CRUD app
 Day 84: Deploy Vercel
 Day 85: Custom domain
 Day 86: Performance
+Day 87: Load speed
