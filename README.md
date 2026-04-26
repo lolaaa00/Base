@@ -79,3 +79,4 @@ Day 75: Context API
 Day 76: Global state
 Day 77: Firebase intro
 Day 78: Firebase connect
+Day 79: Authentication
