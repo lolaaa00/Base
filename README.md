@@ -20,3 +20,4 @@ Day 16: Simple calculator
 Day 17: CSS flexbox
 Day 18: CSS grid
 Day 19: Navigation bar
+Day 20: Hero section
