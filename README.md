@@ -14,3 +14,4 @@ Day 10: Git log
 Day 11: First JS file
 Day 12: JS variables
 Day 13: JS functions
+Day 14: JS arrays
