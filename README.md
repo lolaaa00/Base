@@ -37,3 +37,4 @@ Day 33: Async await
 Day 34: Weather app UI
 Day 35: Weather API
 Day 36: Error handling
+Day 37: Style weather app
