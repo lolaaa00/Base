@@ -69,3 +69,4 @@ Day 65: React props
 Day 66: React state
 Day 67: React counter
 Day 68: useEffect
+Day 69: React API fetch
