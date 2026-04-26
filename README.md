@@ -62,3 +62,4 @@ Day 58: Pricing section
 Day 59: Semantic HTML
 Day 60: Accessibility
 Day 61: npm basics
+Day 62: First package
