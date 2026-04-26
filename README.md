@@ -97,3 +97,4 @@ Day 93: TS conversion
 Day 94: Tailwind CSS
 Day 95: Tailwind UI
 Day 96: Next.js intro
+Day 97: Next.js page
