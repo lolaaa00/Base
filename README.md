@@ -48,3 +48,4 @@ Day 44: Contact form
 Day 45: Form validation
 Day 46: CSS variables
 Day 47: Dark mode
+Day 48: JS objects
