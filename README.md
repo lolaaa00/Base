@@ -53,3 +53,4 @@ Day 49: JSON
 Day 50: Halfway review
 Day 51: CSS transitions
 Day 52: Image gallery
+Day 53: Hover effects
