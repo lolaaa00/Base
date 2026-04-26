@@ -51,3 +51,4 @@ Day 47: Dark mode
 Day 48: JS objects
 Day 49: JSON
 Day 50: Halfway review
+Day 51: CSS transitions
