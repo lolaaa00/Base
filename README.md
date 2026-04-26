@@ -95,3 +95,4 @@ Day 91: First unit test
 Day 92: TypeScript
 Day 93: TS conversion
 Day 94: Tailwind CSS
+Day 95: Tailwind UI
