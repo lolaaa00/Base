@@ -85,3 +85,4 @@ Day 81: Firestore data
 Day 82: Retrieve data
 Day 83: CRUD app
 Day 84: Deploy Vercel
+Day 85: Custom domain
